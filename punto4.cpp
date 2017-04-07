@@ -1,3 +1,12 @@
+/*nombre: cristian alexander ospina 
+ * codigo: 1663740
+ * descripcion: punto 4 del parcial A
+ * fecha de creacion: abril-5-2017
+ * ultima modificacion: abril-7-2017
+*/
+
+
+
 #include <iostream>
 #include <map>
 #include <string>
